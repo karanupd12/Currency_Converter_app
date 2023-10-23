@@ -10,8 +10,7 @@
 
 ## App Preview
 
-<img src="https://github.com/karanupd12/Currency_Converter_app/assets/130437928/44c874b8-2a47-476c-8d72-0608dc3a3308" alt="screenshot1" width="320" height="700">
-<img src="https://github.com/karanupd12/Currency_Converter_app/assets/130437928/4a87f189-1c1d-4168-8c90-c62932697070" alt="screenshot2" width="320" height="700">
+<img src="Screenshot_1696691051.png" alt="screenshot1" width="310" height="700"><img src="Screenshot_1696690537.png" alt="screenshot2" width="310" height="700">
 
 ## Contributing
 
